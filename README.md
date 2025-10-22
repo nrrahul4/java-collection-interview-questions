@@ -1,3 +1,8 @@
+---
+typora-copy-images-to: ./images/Untitled Diagram.drawio.png
+typora-root-url: ./images/Untitled Diagram.drawio.png
+---
+
 # Java Collections
 
 
@@ -30,7 +35,7 @@
 
 <h3 id="1">1. Collection Framework Hierarchy </h3>
 
-![](/Users/rahulnr/Downloads/Untitled Diagram.drawio.png)
+![](/../Untitled Diagram.drawio.png)
 
 Java Collection class is one of the utility classes in java. The java.util package contains the Collections class in Java. The Java Collections class is used with the **static methods** that operate on the collections or return the collection. All the methods of this class throw a **NullPointerException** if the collection or object passed to the methods is null. 
 
